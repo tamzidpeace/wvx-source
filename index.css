@@ -3,7 +3,7 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-/* .code-result {
-    
-
-} */
+.divider {
+    border-bottom: 2px solid #e5e5e5;
+    margin: 20px 0;
+}
